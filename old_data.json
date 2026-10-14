@@ -1,5 +1,16 @@
 [
     {
+        "id": "AT-000087",
+        "compnyNm": "한국엠에스디(주)",
+        "mnfctrNm": "Boehringer Ingelheim RCV GmbH & Co KG",
+        "adres": "Dr.-Boehringer-Gasse 5-11, 1121, Vienna, Austria",
+        "cntryNm": "오스트리아",
+        "regNo": "AT-000087",
+        "latitude": "48.170981491517544",
+        "longitude": "16.3185666",
+        "bizrno": "1338124859"
+    },
+    {
         "id": "BE-000069",
         "compnyNm": "한국엠에스디(주)",
         "mnfctrNm": "Organon Heist bv",
@@ -12,7 +23,7 @@
     },
     {
         "id": "CA-000032",
-        "compnyNm": "한국엠에스디(유)",
+        "compnyNm": "한국엠에스디(주)",
         "mnfctrNm": "Patheon Inc.",
         "adres": "2100 Syntex Court Mississauga, Ontario, L5N 7K9, Canada",
         "cntryNm": "캐나다",
@@ -23,7 +34,7 @@
     },
     {
         "id": "CA-000033",
-        "compnyNm": "한국엠에스디(유)",
+        "compnyNm": "한국엠에스디(주)",
         "mnfctrNm": "Patheon Inc.",
         "adres": "111 Consumers Drive, Whitby, ON L1N 5Z5",
         "cntryNm": "캐나다",
@@ -34,7 +45,7 @@
     },
     {
         "id": "CH-000105",
-        "compnyNm": "한국엠에스디(유)",
+        "compnyNm": "한국엠에스디(주)",
         "mnfctrNm": "Siegfried Evionnaz SA",
         "adres": "Route du Simplon 1, 36, 1902 Evionnaz, Switzerland",
         "cntryNm": "스위스",
@@ -45,7 +56,7 @@
     },
     {
         "id": "CN-000458",
-        "compnyNm": "한국엠에스디(유)",
+        "compnyNm": "한국엠에스디(주)",
         "mnfctrNm": "Hangzhou Merck Sharp & Dohme(MSD) Pharmaceutical Co., Ltd.",
         "adres": "No. 199, WenHai North Road, HEDA, Hangzhou, Zhejiang Province, 310018, China",
         "cntryNm": "중국",
@@ -56,7 +67,7 @@
     },
     {
         "id": "CN-000604",
-        "compnyNm": "한국엠에스디(유)",
+        "compnyNm": "한국엠에스디(주)",
         "mnfctrNm": "Shandong Anxin Pharmaceutical Co., Ltd.",
         "adres": "No. 849, Dongjia Town, Licheng  District, 250105 Jinan, Shandong  Province, P.R., China",
         "cntryNm": "중국",
@@ -67,7 +78,7 @@
     },
     {
         "id": "DE-000206",
-        "compnyNm": "한국엠에스디(유)",
+        "compnyNm": "한국엠에스디(주)",
         "mnfctrNm": "Boehringer Ingelheim Pharma GmbH & Co. KG",
         "adres": "Birkendorfer Straße 65, 88397 Biberach an der Riss, Germany",
         "cntryNm": "독일",
@@ -78,7 +89,7 @@
     },
     {
         "id": "DE-000311",
-        "compnyNm": "한국엠에스디(유)",
+        "compnyNm": "한국엠에스디(주)",
         "mnfctrNm": "Siegfried Hameln GmbH",
         "adres": "Langes Feld 13, 31789 Hameln, Germany",
         "cntryNm": "독일",
@@ -111,7 +122,7 @@
     },
     {
         "id": "FI-000018",
-        "compnyNm": "한국엠에스디(유)",
+        "compnyNm": "한국엠에스디(주)",
         "mnfctrNm": "Orion Corporation",
         "adres": "Tengströminkatu 8, 20360 Turku, Finland",
         "cntryNm": "핀란드",
@@ -122,7 +133,7 @@
     },
     {
         "id": "FR-000081",
-        "compnyNm": "한국엠에스디(유)",
+        "compnyNm": "한국엠에스디(주)",
         "mnfctrNm": "FAREVA La Vallee",
         "adres": "Zone Industrielle de Blavozy, 928 avenue Lavoisier, 43700 Saint-Germain-Laprade, France",
         "cntryNm": "프랑스",
@@ -133,7 +144,7 @@
     },
     {
         "id": "FR-000120",
-        "compnyNm": "한국엠에스디(유)",
+        "compnyNm": "한국엠에스디(주)",
         "mnfctrNm": "FAREVA Mirabel",
         "adres": "Route De Marsat, RIOM-63963 CLERMONT FERRAND CEDEX 9-France",
         "cntryNm": "프랑스",
@@ -155,7 +166,7 @@
     },
     {
         "id": "ID-000002",
-        "compnyNm": "한국엠에스디(유)",
+        "compnyNm": "한국엠에스디(주)",
         "mnfctrNm": "PT Organon Pharma Indonesia Tbk",
         "adres": "Jl. Raya Pandaan KM. 48, Pandaan, Pasuruan, Jawa Timur, Indonesia",
         "cntryNm": "인도네시아",
@@ -166,7 +177,7 @@
     },
     {
         "id": "IE-000034",
-        "compnyNm": "한국엠에스디(유)",
+        "compnyNm": "한국엠에스디(주)",
         "mnfctrNm": "MSD International GmbH T/A MSD Ireland (Ballydine) ",
         "adres": "Ballydine, Kilsheelan, Clonmel, Co. Tipperary, E91 V091, Ireland",
         "cntryNm": "아일랜드",
@@ -177,7 +188,7 @@
     },
     {
         "id": "IE-000041",
-        "compnyNm": "한국엠에스디(유)",
+        "compnyNm": "한국엠에스디(주)",
         "mnfctrNm": "MSD International GmbH T/A MSD Ireland(Carlow)",
         "adres": "Dublin Road Carlow Co. Carlow Ireland",
         "cntryNm": "아일랜드",
@@ -243,7 +254,7 @@
     },
     {
         "id": "IN-000748",
-        "compnyNm": "한국엠에스디(유)",
+        "compnyNm": "한국엠에스디(주)",
         "mnfctrNm": "Laurus Labs Limited",
         "adres": "Plot No.21, Jawaharlal Nehru Pharma City, Parawada, Anakapalli-531021, Andhra Pradesh, India",
         "cntryNm": "인도",
@@ -254,7 +265,7 @@
     },
     {
         "id": "IN-000749",
-        "compnyNm": "한국엠에스디(유)",
+        "compnyNm": "한국엠에스디(주)",
         "mnfctrNm": "Divi's Laboratories Limited",
         "adres": "Unit-2 Chippada(V), Annavaram(Post), Bheemunipatnam(M), Visakhapatnam District - 531 162 Andhra Pradesh Inda",
         "cntryNm": "인도",
@@ -275,8 +286,19 @@
         "bizrno": "1338124859"
     },
     {
+        "id": "IN-003428",
+        "compnyNm": "한국엠에스디(주)",
+        "mnfctrNm": "Teva API India Private Limited",
+        "adres": "Plot No.: A-2, A-2/1, A-2/2, UPSIDC Industrial Area, Bijnor Road, Gajraula-244 235, Distt. Amroha (U.P.), India",
+        "cntryNm": "인도",
+        "regNo": "IN-003428",
+        "latitude": "28.837897",
+        "longitude": "78.227442",
+        "bizrno": "1338124859"
+    },
+    {
         "id": "IT-000144",
-        "compnyNm": "한국엠에스디(유)",
+        "compnyNm": "한국엠에스디(주)",
         "mnfctrNm": "F.I.S Fabbrica Italiana Sintetici S.p.A ",
         "adres": "Viale Milano, 26 - 36075 MONTECCHIO MAGGIORE(VI), Italy",
         "cntryNm": "이탈리아",
@@ -298,7 +320,7 @@
     },
     {
         "id": "IT-000243",
-        "compnyNm": "한국엠에스디(유)",
+        "compnyNm": "한국엠에스디(주)",
         "mnfctrNm": "ACS DOBFAR  S.P.A",
         "adres": "Viale Addetta, 2a/12-3/5 - 20067 Tribiano (MI), Italy",
         "cntryNm": "이탈리아",
@@ -309,7 +331,7 @@
     },
     {
         "id": "IT-000244",
-        "compnyNm": "한국엠에스디(유)",
+        "compnyNm": "한국엠에스디(주)",
         "mnfctrNm": "ACS DOBFAR S.P.A (ACSD4)",
         "adres": "Via Marzobotto, 1, 7/9 20871 Vimercate (MB), Italy",
         "cntryNm": "이탈리아",
@@ -319,8 +341,30 @@
         "bizrno": "1338124859"
     },
     {
+        "id": "IT-000690",
+        "compnyNm": "한국엠에스디(주)",
+        "mnfctrNm": "Patheon Italia S.p.A",
+        "adres": "Viale Gian Battista Stucchi 110 Monza 20900, Italy",
+        "cntryNm": "이탈리아",
+        "regNo": "IT-000690",
+        "latitude": "45.3548",
+        "longitude": "9.18766",
+        "bizrno": "1338124859"
+    },
+    {
+        "id": "IT-000726",
+        "compnyNm": "한국엠에스디(주)",
+        "mnfctrNm": "BSP Pharmaceuticals S.p.A.",
+        "adres": "Via Appia Km 65561, Latina Scalo 04013",
+        "cntryNm": "이탈리아",
+        "regNo": "IT-000726",
+        "latitude": "41.514147",
+        "longitude": "12.937555",
+        "bizrno": "1338124859"
+    },
+    {
         "id": "NL-000013",
-        "compnyNm": "한국엠에스디(유)",
+        "compnyNm": "한국엠에스디(주)",
         "mnfctrNm": "Merck Sharp & Dohme B.V.",
         "adres": "Waarderweg 39, 2031 BN Haarlem, P.O. Box 581, 2003 PC Haarlem, The Netherlands",
         "cntryNm": "네덜란드",
@@ -331,7 +375,7 @@
     },
     {
         "id": "NL-000022",
-        "compnyNm": "한국엠에스디(유)",
+        "compnyNm": "한국엠에스디(주)",
         "mnfctrNm": "Aspen Oss B.V.",
         "adres": "Veersemeer 4, 5347 JN Oss, The Netherlands",
         "cntryNm": "네덜란드",
@@ -353,7 +397,7 @@
     },
     {
         "id": "NL-000026",
-        "compnyNm": "한국엠에스디(유)",
+        "compnyNm": "한국엠에스디(주)",
         "mnfctrNm": "N.V. Organon",
         "adres": "Kloosterstraat 6, 5349 AB Oss, The Netherlands",
         "cntryNm": "네덜란드",
@@ -364,7 +408,7 @@
     },
     {
         "id": "PT-000006",
-        "compnyNm": "한국엠에스디(유)",
+        "compnyNm": "한국엠에스디(주)",
         "mnfctrNm": "Hovione FarmaCiencia SA ",
         "adres": "Sete Casas 2674-506 Loures Portugal",
         "cntryNm": "포르투갈",
@@ -375,7 +419,7 @@
     },
     {
         "id": "SG-000019",
-        "compnyNm": "한국엠에스디(유)",
+        "compnyNm": "한국엠에스디(주)",
         "mnfctrNm": "MSD International GmbH (Singapore Branch)",
         "adres": "50 Tuas West Drive, 638408, Singapore",
         "cntryNm": "싱가포르",
@@ -386,7 +430,7 @@
     },
     {
         "id": "SG-000020",
-        "compnyNm": "한국엠에스디(유)",
+        "compnyNm": "한국엠에스디(주)",
         "mnfctrNm": "MSD International GmbH (Singapore Branch)",
         "adres": "21 Tuas South Avenue 6, 637766, Singapore",
         "cntryNm": "싱가포르",
@@ -397,7 +441,7 @@
     },
     {
         "id": "SG-000026",
-        "compnyNm": "한국엠에스디(유)",
+        "compnyNm": "한국엠에스디(주)",
         "mnfctrNm": "MSD International GmbH(Singapore Branch)",
         "adres": "70 Tuas West Drive, 638414, Singapore",
         "cntryNm": "싱가포르",
@@ -419,7 +463,7 @@
     },
     {
         "id": "US-000180",
-        "compnyNm": "한국엠에스디(유)",
+        "compnyNm": "한국엠에스디(주)",
         "mnfctrNm": "Merck Sharp & Dohme LLC",
         "adres": "770 Sumneytown Pike, West Point, PA 19486, USA",
         "cntryNm": "미국",
@@ -430,7 +474,7 @@
     },
     {
         "id": "US-000188",
-        "compnyNm": "한국엠에스디(유)",
+        "compnyNm": "한국엠에스디(주)",
         "mnfctrNm": "Merck Sharp & Dohme LLC",
         "adres": "2778 South East Side Highway, Elkton, VA, 22827, USA",
         "cntryNm": "미국",
@@ -452,7 +496,7 @@
     },
     {
         "id": "US-000193",
-        "compnyNm": "한국엠에스디(유)",
+        "compnyNm": "한국엠에스디(주)",
         "mnfctrNm": "AMPAC Fine Chemicals, LLC ",
         "adres": "U.S Hwy 50 and Hazel Ave. Rancho Cordova, CA 95670, USA",
         "cntryNm": "미국",
@@ -485,7 +529,7 @@
     },
     {
         "id": "US-000198",
-        "compnyNm": "한국엠에스디(유)",
+        "compnyNm": "한국엠에스디(주)",
         "mnfctrNm": "Patheon Manufacturing Services LLC",
         "adres": "5900 Martin Luther King Jr. Highway Greenville, North Carolina 27834, USA",
         "cntryNm": "미국",
@@ -496,7 +540,7 @@
     },
     {
         "id": "US-000203",
-        "compnyNm": "한국엠에스디(유)",
+        "compnyNm": "한국엠에스디(주)",
         "mnfctrNm": "Merck Sharp & Dohme LLC",
         "adres": "5325 Old Oxford Road, Durham, NC 27712, USA",
         "cntryNm": "미국",
@@ -507,7 +551,7 @@
     },
     {
         "id": "US-000244",
-        "compnyNm": "한국엠에스디(유)",
+        "compnyNm": "한국엠에스디(주)",
         "mnfctrNm": "Merck Teknika, LLC",
         "adres": "100 Rodolphe Street, Building 1300, Durham, North Carolina, 27712 USA",
         "cntryNm": "미국",
@@ -518,7 +562,7 @@
     },
     {
         "id": "US-000245",
-        "compnyNm": "한국엠에스디(유)",
+        "compnyNm": "한국엠에스디(주)",
         "mnfctrNm": "Steri-Pharma, LLC",
         "adres": "429 South West Street, Syracuse, NY 13202",
         "cntryNm": "미국",
@@ -529,7 +573,7 @@
     },
     {
         "id": "US-000246",
-        "compnyNm": "한국엠에스디(유)",
+        "compnyNm": "한국엠에스디(주)",
         "mnfctrNm": "Merck Sharp & Dohme LLC",
         "adres": "4633 Merck Road, Wilson, North Carolina(NC) 27893",
         "cntryNm": "미국",
@@ -551,13 +595,46 @@
     },
     {
         "id": "US-000252",
-        "compnyNm": "한국엠에스디(유)",
+        "compnyNm": "한국엠에스디(주)",
         "mnfctrNm": "Cherokee Pharmaceuticals LLC,",
         "adres": "100 Avenue C Riverside, PA 17868 USA",
         "cntryNm": "미국",
         "regNo": "US-000252",
         "latitude": "40.961792",
         "longitude": "-76.636517",
+        "bizrno": "1338124859"
+    },
+    {
+        "id": "US-000656",
+        "compnyNm": "한국엠에스디(주)",
+        "mnfctrNm": "AbbVie Bioresearch Center",
+        "adres": "100 Research Drive Worcester, MA 01605, USA",
+        "cntryNm": "미국",
+        "regNo": "US-000656",
+        "latitude": "42.27534",
+        "longitude": "-71.76983",
+        "bizrno": "1338124859"
+    },
+    {
+        "id": "US-000700",
+        "compnyNm": "한국엠에스디(주)",
+        "mnfctrNm": "Lonza Biologics, Inc.",
+        "adres": "101 International Drive, Portsmouth, New Hampshire (NH) 03801, USA",
+        "cntryNm": "미국",
+        "regNo": "US-000700",
+        "latitude": "43.083022",
+        "longitude": "-70.805657",
+        "bizrno": "1338124859"
+    },
+    {
+        "id": "US-000712",
+        "compnyNm": "한국엠에스디(주)",
+        "mnfctrNm": "Simtra US LLC",
+        "adres": "927 South Curry Pike, Bloomington, IN 47403-2624, USA",
+        "cntryNm": "미국",
+        "regNo": "US-000712",
+        "latitude": "39.15876",
+        "longitude": "-86.58195",
         "bizrno": "1338124859"
     }
 ]
