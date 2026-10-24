@@ -8,7 +8,7 @@
         "regNo": "AT-000087",
         "latitude": "48.170981491517544",
         "longitude": "16.3185666",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "BE-000069",
@@ -19,7 +19,7 @@
         "regNo": "BE-000069",
         "latitude": "51.063707",
         "longitude": "4.714149",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "CA-000032",
@@ -30,7 +30,7 @@
         "regNo": "CA-000032",
         "latitude": "43.605598",
         "longitude": "-79.750105",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "CA-000033",
@@ -41,7 +41,7 @@
         "regNo": "CA-000033",
         "latitude": "43.869238",
         "longitude": "-78.921044",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "CH-000105",
@@ -52,7 +52,7 @@
         "regNo": "CH-000105",
         "latitude": "46.17322",
         "longitude": "7.02357",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "CN-000458",
@@ -63,7 +63,7 @@
         "regNo": "CN-000458",
         "latitude": "30.3314",
         "longitude": "120.3786",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "CN-000604",
@@ -74,7 +74,7 @@
         "regNo": "CN-000604",
         "latitude": "36.76053",
         "longitude": "117.23846",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "DE-000206",
@@ -85,7 +85,7 @@
         "regNo": "DE-000206",
         "latitude": "48.11417",
         "longitude": "9.80056",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "DE-000311",
@@ -96,7 +96,7 @@
         "regNo": "DE-000311",
         "latitude": "52.098788",
         "longitude": "9.394512",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "DE-000312",
@@ -107,7 +107,7 @@
         "regNo": "DE-000312",
         "latitude": "48.03377",
         "longitude": "7.85735",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "ES-000162",
@@ -118,7 +118,7 @@
         "regNo": "ES-000162",
         "latitude": "40.495953",
         "longitude": "-3.341901",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "FI-000018",
@@ -129,7 +129,7 @@
         "regNo": "FI-000018",
         "latitude": "60.478166",
         "longitude": "22.293415",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "FR-000081",
@@ -140,7 +140,7 @@
         "regNo": "FR-000081",
         "latitude": "45.05361",
         "longitude": "3.969028",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "FR-000120",
@@ -151,7 +151,7 @@
         "regNo": "FR-000120",
         "latitude": "45.8728",
         "longitude": "3.1121",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "FR-000121",
@@ -162,7 +162,7 @@
         "regNo": "FR-000121",
         "latitude": "49.2098737",
         "longitude": "-0.34158469999",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "ID-000002",
@@ -173,7 +173,7 @@
         "regNo": "ID-000002",
         "latitude": "-7.662472",
         "longitude": "112.699026",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "IE-000034",
@@ -184,7 +184,7 @@
         "regNo": "IE-000034",
         "latitude": "52.363275",
         "longitude": "-7.511508",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "IE-000041",
@@ -195,7 +195,7 @@
         "regNo": "IE-000041",
         "latitude": "52.855",
         "longitude": "-6.887",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "IE-000043",
@@ -206,7 +206,7 @@
         "regNo": "IE-000043",
         "latitude": "53.418895",
         "longitude": "-7.983598",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "IE-000053",
@@ -217,7 +217,7 @@
         "regNo": "IE-000053",
         "latitude": "51.83372",
         "longitude": "-8.341088",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "IE-000056",
@@ -228,7 +228,7 @@
         "regNo": "IE-000056",
         "latitude": "52.932829",
         "longitude": "-6.231273",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "IE-000088",
@@ -239,7 +239,7 @@
         "regNo": "IE-000088",
         "latitude": "514.711",
         "longitude": "-8.703",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "IE-000103",
@@ -250,7 +250,7 @@
         "regNo": "IE-000103",
         "latitude": "53.44763561",
         "longitude": "-6.2089977",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "IN-000748",
@@ -261,7 +261,7 @@
         "regNo": "IN-000748",
         "latitude": "17.658333",
         "longitude": "83.091111",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "IN-000749",
@@ -272,7 +272,7 @@
         "regNo": "IN-000749",
         "latitude": "17.936111",
         "longitude": "83.481667",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "IN-002994",
@@ -283,7 +283,7 @@
         "regNo": "IN-002994",
         "latitude": "17.51786841881344",
         "longitude": "82.96578663611461",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "IN-003428",
@@ -294,7 +294,7 @@
         "regNo": "IN-003428",
         "latitude": "28.837897",
         "longitude": "78.227442",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "IT-000144",
@@ -305,7 +305,7 @@
         "regNo": "IT-000144",
         "latitude": "45.49328",
         "longitude": "11.428593",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "IT-000184",
@@ -316,7 +316,7 @@
         "regNo": "IT-000184",
         "latitude": "41.942222",
         "longitude": "15.005556",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "IT-000243",
@@ -327,7 +327,7 @@
         "regNo": "IT-000243",
         "latitude": "45.41262",
         "longitude": "9.37957",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "IT-000244",
@@ -338,7 +338,7 @@
         "regNo": "IT-000244",
         "latitude": "45.59447",
         "longitude": "9.3583",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "IT-000690",
@@ -349,7 +349,7 @@
         "regNo": "IT-000690",
         "latitude": "45.3548",
         "longitude": "9.18766",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "IT-000726",
@@ -360,7 +360,7 @@
         "regNo": "IT-000726",
         "latitude": "41.514147",
         "longitude": "12.937555",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "NL-000013",
@@ -371,7 +371,7 @@
         "regNo": "NL-000013",
         "latitude": "52.23433624",
         "longitude": "4.39427882",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "NL-000022",
@@ -382,7 +382,7 @@
         "regNo": "NL-000022",
         "latitude": "51.7637693",
         "longitude": "5.5323713",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "NL-000025",
@@ -393,7 +393,7 @@
         "regNo": "NL-000025",
         "latitude": "51.750278",
         "longitude": "5.540556",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "NL-000026",
@@ -404,7 +404,7 @@
         "regNo": "NL-000026",
         "latitude": "51.7637635",
         "longitude": "5.5321461",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "PT-000006",
@@ -415,7 +415,7 @@
         "regNo": "PT-000006",
         "latitude": "38.84255",
         "longitude": "-9.178483",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "SG-000019",
@@ -426,7 +426,7 @@
         "regNo": "SG-000019",
         "latitude": "1.331353",
         "longitude": "103.632671",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "SG-000020",
@@ -437,7 +437,7 @@
         "regNo": "SG-000020",
         "latitude": "1.30321",
         "longitude": "103.63125",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "SG-000026",
@@ -448,7 +448,7 @@
         "regNo": "SG-000026",
         "latitude": "1.327206",
         "longitude": "103.6310139",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "SG-000059",
@@ -459,7 +459,7 @@
         "regNo": "SG-000059",
         "latitude": "1.329636",
         "longitude": "103.631884",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "US-000180",
@@ -470,7 +470,7 @@
         "regNo": "US-000180",
         "latitude": "40.218444",
         "longitude": "-75.299892",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "US-000188",
@@ -481,7 +481,7 @@
         "regNo": "US-000188",
         "latitude": "38.385399",
         "longitude": "-78.65169",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "US-000192",
@@ -492,7 +492,7 @@
         "regNo": "US-000192",
         "latitude": "18.433386",
         "longitude": "-66.588764",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "US-000193",
@@ -503,7 +503,7 @@
         "regNo": "US-000193",
         "latitude": "38.61415",
         "longitude": "-121.21596",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "US-000194",
@@ -514,7 +514,7 @@
         "regNo": "US-000194",
         "latitude": "18.184792",
         "longitude": "-65.879107",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "US-000195",
@@ -525,7 +525,7 @@
         "regNo": "US-000195",
         "latitude": "18.4276982",
         "longitude": "-66.4673275",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "US-000198",
@@ -536,7 +536,7 @@
         "regNo": "US-000198",
         "latitude": "35.658575",
         "longitude": "-77.358097",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "US-000203",
@@ -547,7 +547,7 @@
         "regNo": "US-000203",
         "latitude": "36.111859",
         "longitude": "-78.843448",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "US-000244",
@@ -558,7 +558,7 @@
         "regNo": "US-000244",
         "latitude": "36.099039",
         "longitude": "-78.825578",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "US-000245",
@@ -569,7 +569,7 @@
         "regNo": "US-000245",
         "latitude": "43.046697",
         "longitude": "-76.158276",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "US-000246",
@@ -580,7 +580,7 @@
         "regNo": "US-000246",
         "latitude": "35.754496",
         "longitude": "-78.000325",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "US-000248",
@@ -591,7 +591,7 @@
         "regNo": "US-000248",
         "latitude": "44.087895",
         "longitude": "-121.298393",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "US-000252",
@@ -602,7 +602,7 @@
         "regNo": "US-000252",
         "latitude": "40.961792",
         "longitude": "-76.636517",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "US-000656",
@@ -613,7 +613,7 @@
         "regNo": "US-000656",
         "latitude": "42.27534",
         "longitude": "-71.76983",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "US-000700",
@@ -624,7 +624,7 @@
         "regNo": "US-000700",
         "latitude": "43.083022",
         "longitude": "-70.805657",
-        "bizrno": "1338124859"
+        "bizrno": null
     },
     {
         "id": "US-000712",
@@ -635,6 +635,6 @@
         "regNo": "US-000712",
         "latitude": "39.15876",
         "longitude": "-86.58195",
-        "bizrno": "1338124859"
+        "bizrno": null
     }
 ]
